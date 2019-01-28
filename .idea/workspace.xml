@@ -1,92 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4743395d-0fb5-40e2-8dfb-d8d087bdf4b6" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/GOPATH__GoPractice_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GoPractice.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/part1/1-1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part1/1-2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part1/1-3.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part1/1-4.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part1/1-5.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part1/1-6.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part2/2-1-1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part2/2-1-2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part2/2-1-3.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part2/2-2-1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part2/2-2-2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part2/2-2-3.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part2/2-2-4.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part2/2-2-5.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part2/2-3.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part2/2-4.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part3/3-1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part3/3-2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part3/3-3.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part3/3-4.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part3/3-5.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part3/3-6.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part3/3-7.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part4/4-1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part4/4-2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part4/4-3-1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part4/4-3-2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part4/4-3-3.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part4/4-4.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part4/4-5.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part5/5-1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part5/5-10.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part5/5-2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part5/5-3.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part5/5-4.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part5/5-5.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part5/5-6.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part5/5-7.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part5/5-8-1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part5/5-8-2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part5/5-9.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part6/6-1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part6/6-2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part6/6-3.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part6/6-4.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part6/6-5.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part6/6-6.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part7/7-1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part7/7-10.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part7/7-11.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part7/7-2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part7/7-3.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part7/7-4.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part7/7-5.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part7/7-6.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part7/7-7.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part7/7-8.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part7/7-9.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part8/8-1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part8/8-2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part8/8-3.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part8/8-4.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part8/8-5.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part8/8-6.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part8/8-7.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part8/8-8.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part8/8-9.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part9/9-1.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part9/9-10.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part9/9-2.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part9/9-3.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part9/9-4.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part9/9-5.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part9/9-6.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part9/9-7.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part9/9-8.go" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part9/9-9.go" beforeDir="false" />
-    </list>
+    <list default="true" id="4743395d-0fb5-40e2-8dfb-d8d087bdf4b6" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,12 +10,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="user.go" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/controllers/user.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+            <state relative-caret-position="240">
+              <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
               <folding>
                 <element signature="e#21#142#0" expanded="true" />
               </folding>
@@ -133,8 +48,8 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="30" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="295" />
     <option name="y" value="23" />
     <option name="width" value="1267" />
     <option name="height" value="836" />
@@ -144,6 +59,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,7 +86,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -193,27 +108,27 @@
     </option>
   </component>
   <component name="ToolWindowManager">
-    <frame x="30" y="23" width="1267" height="836" extended-state="0" />
+    <frame x="1068" y="23" width="1267" height="836" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24979591" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25387755" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32882273" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32882273" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Version Control" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" weight="0.32882273" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32882273" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32882273" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,8 +143,15 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/controllers/object.go">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/controllers/user.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+          <folding>
+            <element signature="e#21#142#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../iHome/utils/config.go">
       <provider selected="true" editor-type-id="text-editor">
@@ -242,9 +164,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
           <caret line="17" column="12" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
-          <folding>
-            <element signature="e#301#368#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -259,9 +178,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1140">
           <caret line="76" column="16" lean-forward="true" selection-start-line="76" selection-start-column="16" selection-end-line="76" selection-end-column="16" />
-          <folding>
-            <element signature="e#16#101#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -295,8 +211,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/controllers/user.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="25" lean-forward="true" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        <state relative-caret-position="240">
+          <caret line="16" column="36" lean-forward="true" selection-start-line="16" selection-start-column="36" selection-end-line="16" selection-end-column="36" />
           <folding>
             <element signature="e#21#142#0" expanded="true" />
           </folding>
