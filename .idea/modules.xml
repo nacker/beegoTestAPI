@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/GoPractice.iml" filepath="$PROJECT_DIR$/GoPractice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/beegoTestAPI.iml" filepath="$PROJECT_DIR$/.idea/beegoTestAPI.iml" />
     </modules>
   </component>
 </project>
