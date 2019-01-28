@@ -2,4 +2,4 @@
 
 beego restful api
 
-![image](https://github.com/crazy-wolf/cms/blob/master/doc/img/user.png)
+![image](https://github.com/nacker/beegoTestAPI/blob/master/image/api.png)
