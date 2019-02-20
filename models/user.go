@@ -47,12 +47,6 @@ func AddUser(u *User) int {
 	return u.Id
 }
 
-//func UpdateUser(u *User) {
-//	o := orm.NewOrm()
-//	o.Using("default")
-//	o.Update(u)
-//}
-
 func UpdateUser(uid int, uu *User) User {
 
 	//fmt.Printf("-------uid: %d", uid)

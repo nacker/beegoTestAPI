@@ -40,13 +40,24 @@ func (this *UserController) GetById() {
 // @Success 200 {int} models.User.Id
 // @Failure 403 body is empty
 // @router / [post]
+//func (this *UserController) Post() {
+//	user := models.User{}
+//	user.Name = this.GetString("name")
+//	user.Password = this.GetString("password")
+//	user.Avatar = this.GetString("avatar")
+//
+//	u := models.AddUser(&user)
+//	this.Data["json"] = u
+//	this.ServeJSON()
+//}
 func (this *UserController) Post() {
-	user := models.User{}
-	user.Name = this.GetString("name")
-	user.Password = this.GetString("password")
-	user.Avatar = this.GetString("avatar")
-
-	u := models.AddUser(&user)
+	user := &models.User{}
+	err := json.Unmarshal(this.Ctx.Input.RequestBody, user)
+	if err != nil {
+		this.Ctx.Output.Body([]byte(err.Error()))
+		return
+	}
+	u := models.AddUser(user)
 	this.Data["json"] = u
 	this.ServeJSON()
 }
